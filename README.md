@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nirushan
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning computer science and engineering
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me ... write to nirushantp@gmail.com
