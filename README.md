@@ -10,6 +10,6 @@
 
 🔗 Let's connect on LinkedIn: linkedin.com/in/tpnirushan
 
-📧 Reach me at nirushantp@gmail.com
+📧 Reach me at nirushan.prabaharan@gmail.com / nirushantp@gmail.com
 
 Happy coding! 👨‍💻
