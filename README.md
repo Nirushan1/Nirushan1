@@ -12,7 +12,7 @@
 
 - 👨‍💻 I'm all about using tech to make cool stuff happen. I get a kick out of crafting `Restful API` services that are both efficient and scalable. `Real-time data processing`? Bring it on, I love the challenge!
 
-- 🎓 I graduated with a degree in `Computer Science` from National Institute of Technology Tiruchirappalli. During my time there, I dug into creating an "Intelligent Recommendation System for Course Selection." Pretty neat, right?
+- 🎓 I’m currently pursuing a `Master of Computer Science (Advanced Entry)` at the University of Sydney. Previously, I earned my degree in Computer Science from the National Institute of Technology Tiruchirappalli, where I developed an 'Intelligent Recommendation System for Course Selection.' It was a fascinating project!
 
 - 🌐 Right now, I'm knee-deep in developing microservices, tweaking `code` to make it run like a well-oiled machine, and juggling `data streams` like a pro. I've had some awesome internship at Visa Inc., where I got to dive into different tech environments.
 
