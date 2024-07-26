@@ -20,8 +20,6 @@
 
 - 🔗 Wanna connect? Hit me up on **[LinkedIn](https://linkedin.com/in/tpnirushan)**
 
-- ✉️ You can reach me at nirushan.prabaharan@gmail.com
-
 <br></br>
 <picture><img src="banner.gif"></picture>
 
